@@ -2,6 +2,8 @@
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 8.0.2.
 
+PREVIEW : https://hardcore-stallman-b32b84.netlify.com/
+
 # Requirements:
 
 - Node.js for npm (https://nodejs.org/en/download/)
